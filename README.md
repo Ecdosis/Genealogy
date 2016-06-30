@@ -1,5 +1,18 @@
 ## Genealogy
 
+Genealogies of the author of a set of works are useful as a way of prviding 
+background material for an online edition. For example, the author may 
+refer to his/her immediate family as in these lines by Charles Harpur:
+
+> And now too there's a grave new made
+> 'Mid scenes to memory unknown,
+> And there cold stranger hands have laid
+> Our manly hearted John!
+
+This refers to John Milton Harpur, the poet's brother who died in Seymour 
+Victoria, far from his home in New South Wales.
+
+
 Genealogy is a tomcat websvice that can also be run as a Jetty service. It 
 works on port 8080 (Tomcat) or on port 8096 (Jetty). Its goal is to manage 
 a set of resources stored in Mongodb for representing a genealogy. 
@@ -15,7 +28,7 @@ ceremonies where and when they were married, and a list of children.
 These resources are identified by their unique docids. When using the 
 upload.sh script in the harpur-genealogy example the file name is taken as 
 the docid for each resource, minus the ".json" extension and preceded by 
-the simple-id to represen the genealogy it belongs to. Marriages are 
+the simple-id to represent the genealogy it belongs to. Marriages are 
 identified by the groom's and bride's names written out in full, in 
 lowercase with "_" instead of spaces. Persons are identified in the same 
 way but using only the name of the person. The names specified in the 
