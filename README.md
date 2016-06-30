@@ -14,7 +14,8 @@ ceremonies where and when they were married, and a list of children.
 ### docids
 These resources are identified by their unique docids. When using the 
 upload.sh script in the harpur-genealogy example the file name is taken as 
-the docid for each resource, minus the ".json" extension. Marriages are 
+the docid for each resource, minus the ".json" extension and preceded by 
+the simple-id to represen the genealogy it belongs to. Marriages are 
 identified by the groom's and bride's names written out in full, in 
 lowercase with "_" instead of spaces. Persons are identified in the same 
 way but using only the name of the person. The names specified in the 
