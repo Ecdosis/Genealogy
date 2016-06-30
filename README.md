@@ -1,7 +1,7 @@
 ## Genealogy
 
 Genealogy is a tomcat websvice that can also be run as a Jetty service. It 
-works on port 8080 (Tomcat) or on port 8096 (Jetty). It's goal is to manage 
+works on port 8080 (Tomcat) or on port 8096 (Jetty). Its goal is to manage 
 a set of resources stored in Mongodb for representing a genealogy. 
 Resources are of two types:
 
