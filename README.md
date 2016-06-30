@@ -4,13 +4,15 @@ Genealogies of the author of a set of works are useful as a way of prviding
 background material for an online edition. For example, the author may 
 refer to his/her immediate family as in these lines by Charles Harpur:
 
-> And now too there's a grave new made
-> 'Mid scenes to memory unknown,
-> And there cold stranger hands have laid
-> Our manly hearted John!
+    And now too there's a grave new made
+    'Mid scenes to memory unknown,
+    And there cold stranger hands have laid
+    Our manly hearted John!
 
 This refers to John Milton Harpur, the poet's brother who died in Seymour 
-Victoria, far from his home in New South Wales.
+Victoria, far from his home in New South Wales. Having that information to 
+hand in the form of a genealogy helps explain what Harpur means by 
+"stranger hands".
 
 
 Genealogy is a tomcat websvice that can also be run as a Jetty service. It 
