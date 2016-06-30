@@ -17,13 +17,16 @@ upload.sh script in the harpur-genealogy example the file name is taken as
 the docid for each resource, minus the ".json" extension. Marriages are 
 identified by the groom's and bride's names written out in full, in 
 lowercase with "_" instead of spaces. Persons are identified in the same 
-way but using on the name of the person. The names specified in the 
+way but using only the name of the person. The names specified in the 
 "children" and "marriages" fields are converted into identifiers and so 
-must match precisely the docids of the resources. 
+must match precisely the docids of the resources. If there is a name clash 
+then "Jnr" or "Snr" or "{year}" or any string can be appended to the 
+person's name. All persons must be unique when converted into identifiers.
 
 A special docid is created automatically for the genealogy root at 
 {short-id}/root, where {short-id} is the base docid passed to 
-/genealogy/create.
+/genealogy/create. short-ids are limited to two components. i.e. 
+english/conrad/nostromo will be shortened to english/conrad.
 
 ## Services
 
