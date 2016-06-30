@@ -31,7 +31,7 @@ english/conrad/nostromo will be shortened to english/conrad.
 ## Services
 
 ### Delete
-A POST to http://localhost/genealogy/delete remove an entire genealogy.
+A POST to http://localhost/genealogy/delete will remove an entire genealogy.
 
 There are two arguments:
 
@@ -77,7 +77,7 @@ There are three required parameters:
 1. docid: the unique docid of the resource. e.g. 
 > english/harpur/john_milton_harpur
 
-2. record: this contains the text of the JSON resourc. For examples see the 
+2. record: this contains the text of the JSON resource. For examples see the 
 harpur-genealogy sample.
 
 3. userdata: as specified above under /genealogy/delete. The user must be 
