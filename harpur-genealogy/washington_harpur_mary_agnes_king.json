@@ -1,0 +1,13 @@
+{
+    "type": "marriage",
+    "bride": "Mary Agnes King",
+    "groom": "Washington Harpur",
+    "ceremonies": [
+        { "date":"1880" }
+    ],
+    "children": [
+        "Ada Emily Harpur Jnr",
+        "Stella Ruby Harpur",
+        "Florence Isabel Harpur"
+    ]
+}

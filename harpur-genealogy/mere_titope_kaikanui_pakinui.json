@@ -1,0 +1,8 @@
+{
+    "type":"person",
+    "born":{"date":"1824"},
+    "died":{"date":"12-APR-1872"},
+    "marriages":[
+        "William James Harpur"
+    ]
+}

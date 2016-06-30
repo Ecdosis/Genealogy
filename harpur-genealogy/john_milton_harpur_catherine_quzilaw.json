@@ -1,0 +1,14 @@
+{
+    "type": "marriage",
+    "bride": "Catherine Quzilaw",
+    "groom": "John Milton Harpur",
+    "ceremonies": [
+        { "date":"1870" }
+    ],
+    "children": [
+        "Margaret Harpur",
+        "Edward John Harpur",
+        "Catherine J Harpur",
+        "Thomas W Harpur"
+    ]
+}

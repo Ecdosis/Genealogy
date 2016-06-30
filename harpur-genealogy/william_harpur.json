@@ -1,0 +1,6 @@
+{
+    "type": "person",
+    "name": "William Harpur",
+    "born": {"date":"19-FEB-1852","where":"Invercargill, NZ"},
+    "died": {"date":"09-JUL-1948","where":"Invercargill, NZ"}
+}

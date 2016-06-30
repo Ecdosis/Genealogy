@@ -1,0 +1,6 @@
+{
+    "type": "person",
+    "born": { "date":"24-MAY-1822","where":"Windsor, NSW"},
+    "died": { "date":"1825", "where": "Windsor, NSW" },
+    "name": "James Henry Harpur"
+}

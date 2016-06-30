@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"20-JAN-1798","where":"Tooting, London"},
+    "died": { "date":"21-AUG-1852", "where":"Mudgee, NSW"},
+    "name": "John Rotton",
+    "marriages": [
+        "Elizabeth Harpur"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"31-MAR-1851","where":"Singleton, NSW"},
+    "died": { "date":"1938", "where": "QLD" },
+    "name": "Washington Harpur",
+    "marriages": [ 
+        "Mary Agnes King"
+    ]
+}

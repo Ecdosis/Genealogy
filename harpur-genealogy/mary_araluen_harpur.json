@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"03-OCT-1861","where":"Araluen, NSW"},
+    "died": { "date":"1945", "where": "Chatswood, NSW" },
+    "name": "Mary Araluen Harpur",
+    "marriages": [
+        "Thomas George Baldwin"
+    ]
+}

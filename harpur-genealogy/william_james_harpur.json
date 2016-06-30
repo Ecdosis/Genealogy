@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"03-DEC-1819","where":"Windsor, NSW"},
+    "died": { "date":"24-FEB-1889", "where": "Waimate, Waimat, NZ" },
+    "name": "William James Harpur",
+    "marriages": [
+        "Mere Titope Kaikanui Pakinui"
+    ]
+}

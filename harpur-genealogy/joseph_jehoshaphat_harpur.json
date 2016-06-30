@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date": "27-AUG-1810", "where": "Parramatta, NSW"},
+    "died": { "date": "1878", "where": "Sydney" },
+    "name": "Joseph Jehoshaphat Harpur",
+    "marriages": [
+        "Margaret Parker"
+    ]
+}

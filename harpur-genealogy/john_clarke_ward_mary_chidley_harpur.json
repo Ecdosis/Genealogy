@@ -1,0 +1,8 @@
+{
+    "type": "marriage",
+    "bride": "Mary Chidley Harpur",
+    "groom": "John Clarke Ward",
+    "ceremonies": [
+        { "date":"17-MAY-1845", "where":"Sydney" }
+    ]
+}

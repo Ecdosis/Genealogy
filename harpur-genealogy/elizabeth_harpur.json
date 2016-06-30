@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"21-AUG-1808","where":"Sydney"},
+    "died": { "date":"1896" },
+    "name": "Elizabeth Harpur",
+    "marriages": [
+        "John Rotton"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "marriage",
+    "bride": "Mary Ann Doyle",
+    "groom": "Charles Harpur",
+    "ceremonies": [
+        { "date":"02-JUL-1850", "where":"St Andrews, Singleton" }
+    ],
+    "children": [
+        "Washington Harpur",
+        "Charles Chidley Harpur",
+        "Harold Harpur",
+        "Ada Emily Harpur Snr",
+        "Mary Araluen Harpur"
+    ]
+}

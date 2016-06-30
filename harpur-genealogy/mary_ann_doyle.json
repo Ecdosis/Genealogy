@@ -1,0 +1,6 @@
+{
+    "type":"person",
+    "name":"Mary Ann Doyle",
+    "born":{"date":"18-OCT-1820","where":"Portland Head, NSW"},
+    "died":{"date":"02-JUN-1899","where":"Moruya, NSW"}
+}

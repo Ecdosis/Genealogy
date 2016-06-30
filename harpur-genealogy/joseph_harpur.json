@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"1776","where":"Kinsale, Munster, Eire"},
+    "died": { "date":"11-NOV-1842", "where": "New York Hotel, Argyle Street, Sydney" },
+    "name": "Joseph Harpur",
+    "marriages": [
+        "Sarah Harpur"
+    ]
+}

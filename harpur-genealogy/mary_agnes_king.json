@@ -1,0 +1,8 @@
+{
+    "type":"person",
+    "name":"Mary Agnes King",
+    "died":{"date":"1935","where":"NSW"},
+    "marriages":[
+        "Washington Harpur"
+    ]
+}

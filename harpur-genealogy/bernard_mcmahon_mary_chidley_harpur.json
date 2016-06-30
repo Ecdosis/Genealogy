@@ -1,0 +1,8 @@
+{
+    "type": "marriage",
+    "bride": "Mary Chidley Harpur",
+    "groom": "Bernard McMahon",
+    "ceremonies": [
+        { "date":"30-JUL-1851","where":"Sydney" }
+    ]
+}

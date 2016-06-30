@@ -1,0 +1,18 @@
+{
+    "type": "marriage",
+    "isRoot": true,
+    "bride": "Sarah Chidley",
+    "groom": "Joseph Harpur",
+    "ceremonies": [
+        { "date":"16-JUN-1814","where":"Windsor, NSW" }
+    ],
+    "children": [
+        "Elizabeth Harpur",
+        "Joseph Jehoshaphat Harpur",
+        "Charles Harpur",
+        "John Mileham Harpur",
+        "Mary Chidley Harpur",
+        "William James Harpur",
+        "James Henry Harpur"
+    ]
+}

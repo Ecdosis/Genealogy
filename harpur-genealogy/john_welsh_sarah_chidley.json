@@ -1,0 +1,8 @@
+{
+    "type": "marriage",
+    "bride": "Sarah Chidley",
+    "groom": "John Welsh",
+    "ceremonies": [
+        { "date":"06-NOV-1847","where":"Parramatta, NSW" }
+    ]
+}

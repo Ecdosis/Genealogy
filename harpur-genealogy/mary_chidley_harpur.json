@@ -1,0 +1,10 @@
+{
+    "type": "person",
+    "born": { "date":"08-SEP-1817","where":"Windsor, NSW"},
+    "died": { "date":"1896", "where": "Mosman, NSW" },
+    "name": "Mary Chidley Harpur",
+    "marriages": [
+        "John Clarke Ward",
+        "Walter Palmer"
+    ]
+}

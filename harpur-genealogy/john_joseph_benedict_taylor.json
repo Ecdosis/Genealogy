@@ -1,0 +1,6 @@
+{
+    "type": "person",
+    "born": { "date":"09-DEC-1830","where":"Bathurst, NSW"},
+    "died": { "date":"22-JUL-1910", "where": "Tamworth, NSW" },
+    "name": "John Joseph Benedict Taylor"
+}

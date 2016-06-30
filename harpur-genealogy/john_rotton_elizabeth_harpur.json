@@ -1,0 +1,17 @@
+{
+    "type": "marriage",
+    "bride": "Elizabeth Harpur",
+    "groom": "John Rotton",
+    "ceremonies": [
+        { "date":"16-FEB-1826","where":"Windsor, NSW" }
+    ],
+    "children": [
+        "John Charles Frederick Rotton",
+        "Elizabeth Rotton",
+        "Sarah Chidley Rotton",
+        "Anne Rotton",
+        "Henry Francis Rotton",
+        "Laura Jane Rotton",
+        "Charles Rotton"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"1893","where":"QLD"},
+    "died": { "date":"1966", "where": "Newtown, NSW" },
+    "name": "Florence Isabel Harpur",
+    "marriages": [
+        "Stanley Kirby Tomlin"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "type": "person",
+    "born": { "date":"23-JAN-1813", "where":"Windsor, NSW"},
+    "died": { "date":"10-JUN-1868","where":"Euroma, NSW"},
+    "name": "Charles Harpur",
+    "marriages": [
+        "Mary Ann Doyle"
+    ]
+}

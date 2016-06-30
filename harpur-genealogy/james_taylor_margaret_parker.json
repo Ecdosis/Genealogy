@@ -1,0 +1,12 @@
+{
+    "type": "marriage",
+    "bride": "Margaret Parker",
+    "groom": "James Taylor",
+    "ceremonies": [
+        { "date":"14-JAN-1828","where":"Bathurst, NSW" }
+    ],
+    "children": [
+        "John Joseph Benedict Taylor",
+        "Ann Chidley Taylor"
+    ]
+}

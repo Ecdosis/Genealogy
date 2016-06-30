@@ -1,0 +1,6 @@
+{
+    "type": "person",
+    "born": { "date":"12-DEC-1836","where":"Sydney"},
+    "died": { "date":"15-JAN-1838" },
+    "name": "Esther Chidley Palmer"
+}

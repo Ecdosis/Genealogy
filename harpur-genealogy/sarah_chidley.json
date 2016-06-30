@@ -1,0 +1,10 @@
+{
+    "type": "person",
+    "born": { "date":"1786","where":"West Bagborough, Somerset, UK"},
+    "died": { "date":"29-JUN-1866", "where": "Penrith, NSW"},
+    "name":"Sarah Chidley",
+    "marriages": [
+        "Joseph Harpur",
+        "John Welsh"
+    ]
+}

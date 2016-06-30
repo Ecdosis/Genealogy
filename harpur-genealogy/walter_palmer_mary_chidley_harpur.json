@@ -1,0 +1,11 @@
+{
+    "type": "marriage",
+    "bride": "Mary Chidley Harpur",
+    "groom": "Walter Palmer",
+    "ceremonies": [
+        { "date":"09-OCT-1834","where":"Sydney" }
+    ],
+    "children": [
+        "Esther Chidley Palmer"
+    ]
+}

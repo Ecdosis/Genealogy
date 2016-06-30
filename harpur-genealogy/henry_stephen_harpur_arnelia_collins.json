@@ -1,0 +1,8 @@
+{
+    "type": "marriage",
+    "bride": "Arnelia Collins",
+    "groom": "Henry Stephen Harpur",
+    "ceremonies": [
+        { "date":"1857", "where":"Sydney" }
+    ]
+}

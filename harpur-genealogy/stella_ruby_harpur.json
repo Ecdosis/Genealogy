@@ -1,0 +1,6 @@
+{
+    "type": "person",
+    "born": { "date":"1883","where":"Walgett, NSW"},
+    "died": { "date":"1903", "where": "QLD" },
+    "name": "Stella Ruby Harpur"
+}

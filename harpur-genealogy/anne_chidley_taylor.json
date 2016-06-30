@@ -1,0 +1,6 @@
+{
+    "type": "person",
+    "born": { "date":"22-OCT-1832","where":"Bathurst, NSW"},
+    "died": { "date":"18-DEC-1907", "where": "Newington, Sydney" },
+    "name": "Anne Chidley Taylor"
+}

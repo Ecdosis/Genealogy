@@ -1,0 +1,14 @@
+{
+    "type": "marriage",
+    "bride": "Margaret Parker",
+    "groom": "Joseph Jehoshaphat Harpur",
+    "ceremonies": [
+        { "date":"25-OCT-1841", "where": "Singleton" },
+        { "date":"18-OCT-1844", "where": "West Maitland"}
+    ],
+    "children": [
+        "John Milton Harpur",
+        "Mary Jane Teresa Harpur",
+        "Henry Stephen Harpur"
+    ]
+}
