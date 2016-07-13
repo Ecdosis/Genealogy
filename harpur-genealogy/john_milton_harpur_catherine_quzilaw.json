@@ -3,7 +3,7 @@
     "bride": "Catherine Quzilaw",
     "groom": "John Milton Harpur",
     "ceremonies": [
-        { "date":"1870" }
+        { "date":"1870","where":"Patricks Plains"}
     ],
     "children": [
         "Margaret Harpur",

@@ -58,11 +58,14 @@ public class GenealogyGetHandler extends GenealogyHandler
             newChild.put( JSONKeys.TYPE, GenealogyKeys.PERSON);
             if ( child.containsKey(GenealogyKeys.BORN) )
                 newChild.put( GenealogyKeys.BORN, child.get(GenealogyKeys.BORN));
+            if ( child.containsKey(GenealogyKeys.NEE) )
+                newChild.put( GenealogyKeys.NEE, child.get(GenealogyKeys.NEE));
             if ( child.containsKey(GenealogyKeys.DIED) )
                 newChild.put( GenealogyKeys.DIED, child.get(GenealogyKeys.DIED));
             if ( child.containsKey(GenealogyKeys.MARRIAGES) )
             {
                 JSONArray weddings = (JSONArray)child.get(GenealogyKeys.MARRIAGES);
+                JSONArray newWeddings = new JSONArray();
                 String simpleId = simpleDocid(docid);
                 for ( int i=0;i<weddings.size();i++ )
                 {
@@ -78,12 +81,13 @@ public class GenealogyGetHandler extends GenealogyHandler
                     {
                         JSONObject newMarriage = new JSONObject();
                         makeMarriage( newMarriage, marriage );
-                        newChild.put( GenealogyKeys.MARRIAGES, newMarriage );
+                        newWeddings.add(newMarriage);
                     }
                     else
                         throw new Exception( "marriage between "
                             +spouse+" and "+childName+" not found");
                 }
+                newChild.put( GenealogyKeys.MARRIAGES, newWeddings );
             }
         }
         else
@@ -110,13 +114,14 @@ public class GenealogyGetHandler extends GenealogyHandler
     void makeMarriage( JSONObject parent, JSONObject marriage ) throws Exception
     {
         String simpleId = simpleDocid(docid);
-        parent.put(JSONKeys.TYPE, GenealogyKeys.MARRIAGE);
+        String type = (String)marriage.get(JSONKeys.TYPE);
+        parent.put(JSONKeys.TYPE, type);
+        if ( type.equals("defacto") )
+            System.out.println("defacto!");
         addSpouse( GenealogyKeys.GROOM, parent, marriage );
         addSpouse( GenealogyKeys.BRIDE, parent, marriage );
         JSONArray ceremonyArr = (JSONArray)marriage.get(GenealogyKeys.CEREMONIES);
-        if ( ceremonyArr == null )
-            System.out.println("marriage "+docid+" lacks a ceremonies field");
-        else
+        if ( ceremonyArr != null )
             parent.put( GenealogyKeys.CEREMONIES, ceremonyArr );
         JSONArray children = (JSONArray)marriage.get(GenealogyKeys.CHILDREN);
         if ( children != null )
@@ -174,7 +179,7 @@ public class GenealogyGetHandler extends GenealogyHandler
                                 persons.put( (String)jObj.get(JSONKeys.DOCID), jObj);
                             else
                                 marriages.put((String)jObj.get(JSONKeys.DOCID),jObj);
-                            jObj.remove(JSONKeys.TYPE);
+                            //jObj.remove(JSONKeys.TYPE);
                         }
                         else
                             System.out.println("Record "+docids[i]+" lacking type field");

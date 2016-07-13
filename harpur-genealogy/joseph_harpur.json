@@ -1,7 +1,7 @@
 {
     "type": "person",
     "born": { "date":"1776","where":"Kinsale, Munster, Eire"},
-    "died": { "date":"11-NOV-1842", "where": "New York Hotel, Argyle Street, Sydney" },
+    "died": { "date":"11-NOV-1842", "where": "New York Hotel, Argyle Street, Sydney","ref":"Australasian Chronicle 15-NOV-1842 p.3d; 110/Vol. 126 Burials in the parish of St Philip Sydney" },
     "name": "Joseph Harpur",
     "marriages": [
         "Sarah Harpur"

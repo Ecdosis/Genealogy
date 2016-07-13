@@ -1,5 +1,6 @@
 {
     "type": "person",
     "born": { "date":"1884","where":"Moruya, NSW"},
-    "name": "Mary E. Baldwin"
+    "died": { "date":"1887","where":"Moruya, NSW","ref":"NSW Registry of Births, Marriages and Deaths: 8378/1887"},
+    "name": "Mary E Baldwin"
 }

@@ -2,7 +2,7 @@
     "type":"person",
     "name":"Stanley Kirby Tomlin",
     "born":{"date":"1893"}
-    "died":{"date":1944,"where":"Newtown, NSW"},
+    "died":{"date":"15-AUG-1944","where":"Newtown, NSW"},
     "marriages":[
         "Florence Isabel Harpur"
     ]

@@ -1,5 +1,5 @@
 {
     "type": "person",
-    "born": { "date":"26-DEC1846","where":"Invercargill, NZ"},
+    "born": { "date":"26-DEC-1846","where":"Invercargill, NZ"},
     "name": "Mary Polly Harpur"
 }

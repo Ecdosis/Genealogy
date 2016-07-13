@@ -1,8 +1,9 @@
 {
     "type":"person",
+    "name": "Mere Titope Kaikanui Pakinui",
     "born":{"date":"1824"},
     "died":{"date":"12-APR-1872"},
     "marriages":[
-        "William James Harpur"
+        "William James Harpur Snr"
     ]
 }

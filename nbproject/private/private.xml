@@ -4,8 +4,8 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/handler/post/GenealogyDeleteHandler.java</file>
+            <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/constants/GenealogyKeys.java</file>
             <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/exception/GenealogyException.java</file>
-            <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/constants/Event.java</file>
             <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/constants/Params.java</file>
             <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/GenealogyWebApp.java</file>
             <file>file:/home/desmond/NetBeansProjects/Genealogy/src/genealogy/handler/post/GenealogyCreateHandler.java</file>

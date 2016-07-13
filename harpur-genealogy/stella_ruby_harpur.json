@@ -1,6 +1,6 @@
 {
     "type": "person",
-    "born": { "date":"1883","where":"Walgett, NSW"},
-    "died": { "date":"1903", "where": "QLD" },
+    "born": { "date":"1883","where":"Walgett, NSW","ref":"NSW Birth Registry 25981/1883"},
+    "died": { "date":"1903", "where": "QLD","ref":"Qld Death Registry C80" },
     "name": "Stella Ruby Harpur"
 }

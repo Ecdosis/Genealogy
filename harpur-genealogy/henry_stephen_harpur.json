@@ -2,5 +2,9 @@
     "type": "person",
     "born": { "date":"1835","where":"Singleton, NSW"},
     "died": { "date":"04-OCT-1880", "where": "Sydney" },
-    "name": "Henry Stephen Harpur"
+    "name": "Henry Stephen Harpur",
+    "nee":"Henry Stephen Taylor",
+    "marriages": [
+        "Amelia Collins"
+    ]
 }

@@ -1,5 +1,6 @@
 {
     "type": "person",
     "born": { "date":"1886","where":"Moruya, NSW"},
-    "name": "Lucy C. Baldwin"
+    "died": { "date":"1888","where":"Moruya, NSW","ref": "NSW Registry of Births, Marriages and Deaths 9214/1888"},
+    "name": "Lucy C Baldwin"
 }

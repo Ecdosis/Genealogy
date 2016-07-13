@@ -1,5 +1,8 @@
 {
     "type": "person",
     "born": { "date":"1888","where":"Moruya, NSW"},
-    "name": "Florence E.E. Baldwin"
+    "name": "Florence EE Baldwin",
+    "marriages": [
+        "William H Murray"
+    ]
 }
