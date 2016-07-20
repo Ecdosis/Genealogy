@@ -60,6 +60,8 @@ public class GenealogyGetHandler extends GenealogyHandler
                 newChild.put( GenealogyKeys.BORN, child.get(GenealogyKeys.BORN));
             if ( child.containsKey(GenealogyKeys.NEE) )
                 newChild.put( GenealogyKeys.NEE, child.get(GenealogyKeys.NEE));
+            if ( child.containsKey(GenealogyKeys.IMAGE) )
+                newChild.put( GenealogyKeys.IMAGE, child.get(GenealogyKeys.IMAGE));
             if ( child.containsKey(GenealogyKeys.DIED) )
                 newChild.put( GenealogyKeys.DIED, child.get(GenealogyKeys.DIED));
             if ( child.containsKey(GenealogyKeys.MARRIAGES) )

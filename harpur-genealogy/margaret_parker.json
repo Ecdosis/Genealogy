@@ -1,8 +1,8 @@
 {
     "type": "person",
     "name": "Margaret Parker",
-    "born": {"date":"1809","where":"Windsor, NSW"},
-    "died": {"date":"25-OCT-1895","where":"Coffs Harbour, NSW"},
+    "born": {"date":"1809","where":"Cowpasture, NSW"},
+    "died": {"date":"25-OCT-1895","where":"Bellingen, Coffs Harbour, NSW"},
     "marriages": [
         "James Taylor",
         "Joseph Jehoshaphat Harpur"

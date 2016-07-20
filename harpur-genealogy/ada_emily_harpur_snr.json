@@ -1,6 +1,6 @@
 {
     "type": "person",
-    "born": { "date":"29-AUG-1857"},
-    "died": { "date":"1895", "where": "Sydney" },
+    "born": { "date":"29-AUG-1857","where":"Patricks Plains","ref":"NSW Registry of Births, Marriages and Deaths 10034"},
+    "died": { "date":"1895", "where": "Sydney","ref":"NSW Registry of Briths, Marriages and Deaths 10893/1895" },
     "name": "Ada Emily Harpur Snr"
 }

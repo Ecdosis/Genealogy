@@ -1,6 +1,6 @@
 {
     "type": "person",
-    "born": { "date":"15-JUN-1853","where":"Singleton, NSW"},
-    "died": { "date":"1867", "where": "Euroma, NSW" },
+    "born": { "date":"15-JUN-1853","where":"Singleton, NSW","ref":"NSW Registry of Births, Marriages and Deaths 777/1853 V1853777 52"},
+    "died": { "date":"1867", "where": "Euroma, NSW","ref":"NSW Registry of Births, Marriages and Deaths 4562/1867; Empire 12-MAR-1867 p.5f" },
     "name": "Charles Chidley Harpur"
 }

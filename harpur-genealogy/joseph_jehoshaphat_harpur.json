@@ -1,7 +1,7 @@
 {
     "type": "person",
     "born": { "date": "27-AUG-1810", "where": "Parramatta, NSW"},
-    "died": { "date": "1878", "where": "Sydney" },
+    "died": { "date": "1878", "where": "9 Gipps Street, Sydney","ref":"Evening News 3rd May 1878, p3b" },
     "name": "Joseph Jehoshaphat Harpur",
     "marriages": [
         "Margaret Parker"

@@ -1,6 +1,6 @@
 {
     "type":"person",
     "name":"Mary Ann Doyle",
-    "born":{"date":"18-OCT-1820","where":"Portland Head, NSW"},
+    "born":{"date":"18-OCT-1820","where":"Portland Head, NSW","ref":"NSW Registry of Births, Marriages and Deaths, V18205441 1B"},
     "died":{"date":"02-JUN-1899","where":"Eurobodalla, NSW"}
 }

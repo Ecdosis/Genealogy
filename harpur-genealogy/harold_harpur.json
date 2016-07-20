@@ -1,5 +1,6 @@
 {
     "type": "person",
     "born": { "date":"18-FEB-1856"},
+    "died": { "date":"1940","where":"Kenmore hospital, Goulburn","ref":"NSW Registry of Births, Marriages and Deaths, 25920/1940"},
     "name": "Harold Harpur"
 }

@@ -3,7 +3,7 @@
     "bride": "Mary Araluen Harpur",
     "groom": "Thomas George Baldwin",
     "ceremonies": [
-        { "date":"1883" }
+        { "date":"1883","where":"Moruya","ref":"NSW Registry of Births, Marriages and Deaths 4580" }
     ],
     "children": [
         "Mary E Baldwin",

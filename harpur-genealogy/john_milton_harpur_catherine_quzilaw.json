@@ -3,7 +3,7 @@
     "bride": "Catherine Quzilaw",
     "groom": "John Milton Harpur",
     "ceremonies": [
-        { "date":"1870","where":"Patricks Plains"}
+        { "date":"1870","where":"Patricks Plains","ref":"NSW Registry of Births, Marriages and Deaths 3168/1870"}
     ],
     "children": [
         "Margaret Harpur",

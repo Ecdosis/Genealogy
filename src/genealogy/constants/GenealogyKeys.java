@@ -36,4 +36,5 @@ public class GenealogyKeys {
     public static final String ISROOT = "isRoot";
     public static final String CEREMONIES = "ceremonies";
     public static final String NEE = "nee";
+    public static final String IMAGE = "image";
 }

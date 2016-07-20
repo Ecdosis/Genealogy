@@ -1,6 +1,6 @@
 {
     "type": "person",
-    "born": { "date":"1888","where":"Moruya, NSW"},
+    "born": { "date":"1888","where":"Moruya, NSW","ref":"NSW Registry of Births, Marriages and Deaths 21192"},
     "name": "Florence EE Baldwin",
     "marriages": [
         "William H Murray"

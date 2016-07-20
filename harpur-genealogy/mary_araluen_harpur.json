@@ -1,9 +1,10 @@
 {
     "type": "person",
-    "born": { "date":"03-OCT-1861","where":"Araluen, NSW"},
-    "died": { "date":"1945", "where": "Chatswood, NSW" },
+    "born": { "date":"03-OCT-1861","where":"Araluen, (registered Braidwood) NSW","ref":"NSW Registry of Births, Marriages and Deaths 5993"},
+    "died": { "date":"20-OCT-1945", "where": "Killara, Sydney","ref":"Windsor and Richmond Gazette 24-OCT-1945 p.4a" },
     "name": "Mary Araluen Harpur",
     "marriages": [
-        "Thomas George Baldwin"
+        "Thomas George Baldwin",
+        "George J Dyball"
     ]
 }

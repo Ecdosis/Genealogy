@@ -1,6 +1,6 @@
 {
     "type": "person",
-    "born": { "date": "20-APR-1815", "where": "Windsor, NSW" },
-    "died": { "date": "01-APR-1847", "where": "Seymour, Victoria" }
+    "born": { "date": "20-APR-1815", "where": "Windsor, NSW","ref":"NSW Registry of Births Marriages and Deaths 3621/1815 V18153621 1A" },
+    "died": { "date": "01-APR-1847", "where": "Seymour, Victoria", "ref":"Maitland Mercury 24 April 1847, p.3e" }
     "name": "John Mileham Harpur"
 }

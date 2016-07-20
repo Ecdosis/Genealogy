@@ -2,5 +2,8 @@
     "type": "person",
     "born": { "date":"10-MAY-1837","where":"Singleton, NSW"},
     "died": { "date":"17-OCT-1923", "where": "Grafton, NSW" },
-    "name": "Mary Jane Teresa Harpur"
+    "name": "Mary Jane Teresa Harpur",
+    "marriages":[
+        "Thomas Jordan"
+    ]
 }

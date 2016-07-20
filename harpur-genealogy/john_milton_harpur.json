@@ -1,7 +1,7 @@
 {
     "type": "person",
     "born": { "date":"06-SEP-1842"},
-    "died": { "date":"1910", "where": "Tamworth, NSW" },
+    "died": { "date":"1910", "where": "Tamworth, NSW", "ref":"NSW Registry of Births, Marriages and Deaths 11283/1910" },
     "name": "John Milton Harpur",
     "marriages": [ 
         "Catherine Quzilaw"

@@ -3,6 +3,6 @@
     "bride": "Mary Jane Teresa Harpur",
     "groom": "Thomas Jordan",
     "ceremonies": [
-        { "date":"1853", "where":"Wollombi" }
+        { "date":"1853", "where":"Wollombi", "ref":"NSW Registry of Births, Marriages and Deaths 88/1853 V185388 39C" }
     ]
 }
