@@ -19,6 +19,7 @@
 package genealogy.handler.post;
 
 import calliope.core.Base64;
+import genealogy.exception.JSONParseException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import genealogy.handler.GenealogyHandler;
@@ -176,6 +177,8 @@ public class GenealogyPostHandler extends GenealogyHandler
                         throw new Exception("Missing record");
                     else
                         jObj = (JSONObject)JSONValue.parse(record);
+                    if ( jObj == null )
+                        throw new JSONParseException("The json for "+docid+" was invalid");
                     if ( jObj.containsKey(JSONKeys.TYPE) 
                         && jObj.get(JSONKeys.TYPE).equals(GenealogyKeys.MARRIAGE) 
                         && jObj.containsKey(GenealogyKeys.ISROOT)

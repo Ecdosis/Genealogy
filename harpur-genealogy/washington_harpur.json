@@ -1,7 +1,7 @@
 {
     "type": "person",
     "born": { "date":"31-MAR-1851","where":"Singleton, NSW","ref":"1454/Vol.51 Presbyterian baptisms in the parish of Whittingham, County Nothumberland"},
-    "died": { "date":"1938", "where": "QLD","ref":"QLD Registry Office C2934" },
+    "died": { "date":"AUG-1938","ref":"QLD Registry Office C2934; The Courier Mail 18-AUG-1938, p. 10f", "where":"Weemelah, QLD" },
     "name": "Washington Harpur",
     "marriages": [ 
         "Mary Agnes King"

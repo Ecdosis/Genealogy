@@ -118,8 +118,6 @@ public class GenealogyGetHandler extends GenealogyHandler
         String simpleId = simpleDocid(docid);
         String type = (String)marriage.get(JSONKeys.TYPE);
         parent.put(JSONKeys.TYPE, type);
-        if ( type.equals("defacto") )
-            System.out.println("defacto!");
         addSpouse( GenealogyKeys.GROOM, parent, marriage );
         addSpouse( GenealogyKeys.BRIDE, parent, marriage );
         JSONArray ceremonyArr = (JSONArray)marriage.get(GenealogyKeys.CEREMONIES);

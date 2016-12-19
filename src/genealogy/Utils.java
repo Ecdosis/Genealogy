@@ -34,9 +34,11 @@ public class Utils {
         StringBuilder sb = new StringBuilder();
         sb.append(docid);
         sb.append("/");
-        sb.append( groom.replaceAll(" ", "_"));
+        String modGroom = groom.replaceAll(" ", "_");
+        sb.append( modGroom.replaceAll("'","") );
         sb.append("_");
-        sb.append( bride.replaceAll(" ","_"));
+        String modBride = bride.replaceAll(" ","_");
+        sb.append( modBride.replaceAll("'","") );
         return sb.toString().toLowerCase();
     }
     /**
@@ -50,7 +52,8 @@ public class Utils {
         StringBuilder sb = new StringBuilder();
         sb.append(docid);
         sb.append("/");
-        sb.append( name.replaceAll(" ", "_"));
+        String modPerson = name.replaceAll(" ", "_");
+        sb.append( modPerson.replaceAll("'","") );
         return sb.toString().toLowerCase();
     }
 }

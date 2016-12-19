@@ -1,5 +1,5 @@
 {
     "type": "person",
-    "born": { "date":"1881","where":"Tamworth, NSW"},
+    "born": { "date":"1881","where":"Tamworth, NSW","ref":"NSW Registry of Births, Marriages and Deaths 16793/1881"},
     "name": "Thomas W Harpur"
 }

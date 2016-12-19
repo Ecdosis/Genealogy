@@ -2,6 +2,7 @@
     "type": "person",
     "born": { "date":"10-MAY-1837","where":"Singleton, NSW"},
     "died": { "date":"17-OCT-1923", "where": "Grafton, NSW" },
+    "image":"http://charles-harpur.org/corpix/english/harpur/biography/mary_jane_teresa_harpur.png",
     "name": "Mary Jane Teresa Harpur",
     "marriages":[
         "Thomas Jordan"
